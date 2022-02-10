@@ -38,3 +38,9 @@ body{
 
 
 
+@media only screen and (max-width: 600px) {
+    .client-review{
+        
+        margin-left: 50px;
+    }
+}
