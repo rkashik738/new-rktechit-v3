@@ -34,13 +34,4 @@ body{
     color: #2b6cb0;  /*Set to match the Tailwind colour you want the active one to be */
 }
 
-
-
-
-
-@media only screen and (max-width: 600px) {
-    .client-review{
-        
-        margin-left: 50px;
-    }
 }
